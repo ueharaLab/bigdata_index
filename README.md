@@ -1,54 +1,21 @@
-# データサイエンス基礎
-## [1. イントロダクション](https://github.com/ueharaLab/datascience_introduction)
-## [2. データサイエンスプログラミングとは](https://github.com/ueharaLab/datascience_programming)
-## [3. pythonデータサイエンスプログラミングの基礎 変数と演算子](https://github.com/ueharaLab/datascience_python1)
-データセットの要素の扱い方
-## [4. pythonデータサイエンスプログラミングの基礎　文字列](https://github.com/ueharaLab/datascience_python2)
-列見出し（特徴量見出し）の扱い方  
-**データサイエンスへの応用：うどんらしさとラーメンらしさの度数分布**
+# ビッグデータ基礎
 
+## [1. ビッグデータイントロダクション](https://github.com/ueharaLab/bigdata1_introduction)
 
-## [5. pyhonデータサイエンスプログラミングの基礎 関数の基礎](https://github.com/ueharaLab/datascience_python2_1_function)
-グラフによる可視化関数
-機械学習のブラックボックス関数
+## [2. ビッグデータpython実行環境](https://github.com/ueharaLab/bigdata2_system_and_python)
 
+## [3. ビッグデータクローラー](https://github.com/ueharaLab/datascience_python1)
 
-## [6. pyhonデータサイエンスプログラミングの基礎 リスト型とベクトル表現](https://github.com/ueharaLab/datascience_python3)
-教師ラベル、データセット特徴量ベクトルの作成  
-**データサイエンスへの応用：口コミの形態素解析→リスト型の要素別頻度カウント→うどん・ラーメングラフの説明** 
+## [4. ビッグデータクローラー応用](https://github.com/ueharaLab/bigdata4_crawler2)
 
+## [5. ビッグデータスクレイピング ](https://github.com/ueharaLab/bigdata5_scraping)
 
-## [7. pyhonデータサイエンスプログラミングの基礎 numpyとベクトル表現](https://github.com/ueharaLab/datascience_python3_1)
-**データサイエンスへの応用　シグモイド関数を描いてみる(AIの細胞)**
+## [6. ビッグデータスクレイピング応用](https://github.com/ueharaLab/bigdata6_scraping2)
 
-## [8. pythonデータサイエンスプログラミングの基礎 辞書型と階層表現](https://github.com/ueharaLab/datascience_python4)
-教師ラベルの数値化
-**データサイエンスへの応用： polygon とGeoJson　地図上への形状可視化**
+## [7. ビッグデータ無人のマウス ](https://github.com/ueharaLab/bigdata7_selenium)
 
-## [9. pythonデータサイエンスプログラミングの基礎 リスト型と2次元配列](https://github.com/ueharaLab/datascience_python5)
-特徴量行列の作成
-**データサイエンスへの応用：画像の特徴量行列表現～手書き数字の特徴量とイメージ復元**
+## [8. ビッグデータAPIプログラミング](https://github.com/ueharaLab/bigdata8_API)
 
-## [10. pythonデータサイエンスプログラミングの基礎 DataFrameと2次元配列](https://github.com/ueharaLab/datascience_python6)
-データセットの作成
+## [9. ビッグデータAPI GIS](https://github.com/ueharaLab/bigdata9_API_GIS)
 
-## [11. pythonデータサイエンスプログラミングの基礎 DataFrameと2次元配列応用](https://github.com/ueharaLab/datascience_python7)
-データセットの作成と演算
-
-
-## [12. 教師あり機械学習プログラミングの基礎](https://github.com/ueharaLab/datascience_python8)
-既製品データ（Iris、手書き数字）にもとづく教師あり機械学習
-モデルとは何か(ニューラルネットワーク、決定木)
-
-## [13. 決定木と過学習](https://github.com/ueharaLab/datascience_python9)
-予測精度の計算方法とパラメータチューニング
-決定境界
-
-
-
-## [14. 静止画からの物体検出](https://github.com/ueharaLab/detascience_python10)
-YOLOファインチューニング
-
-## [15. 動画からの物体検出と物体追跡](https://github.com/ueharaLab/datascience_python11)
-SAM2による領域推定と自動アノテーション　YOLO訓練データの自動生成
-
+## [10. webデータ]()
